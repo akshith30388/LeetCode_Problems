@@ -1,43 +1,41 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> ans=new ArrayList<>();
-        StringBuilder str=new StringBuilder();
-        generate(n,str,ans);
         List<String> valid=new ArrayList<>();
-        for(String s:ans){
-            if(isValid(s)){
-                valid.add(s);
-            }
-        }
+        StringBuilder str=new StringBuilder();
+        generate(n,str,valid,0,0);
         return valid;
     }
-     static void generate(int n,StringBuilder str ,List<String> ans){
-        if(str.length()==2*n){
-            ans.add(str.toString());
+     static void generate(int n,StringBuilder str ,List<String> valid,int o,int c){
+        if(str.length()==n*2){
+            valid.add(str.toString());
             return ;
         }
+        if(o<n){
         str.append('(');
-        generate(n,str,ans);
+        generate(n,str,valid,o+1,c);
         str.deleteCharAt(str.length()-1);
-         str.append(')');
-        generate(n,str,ans);
-        str.deleteCharAt(str.length()-1);
-    }
-    public static boolean isValid(String s){
-        Stack<Character> stack=new Stack<>();
-        for(char ch:s.toCharArray()){
-            if(ch=='('){
-                stack.push(ch);
-            }else{
-                if(stack.isEmpty()){
-                    return false;
-                }
-               else if(stack.peek()=='('&& ch==')'){
-	              stack.pop();
-	          }
-            }
         }
-            return stack.isEmpty();
+        if(o>c){
+        str.append(')');
+        generate(n,str,valid,o,c+1);
+        str.deleteCharAt(str.length()-1);
+        }
     }
+    // // public static boolean isValid(String s){
+    //     Stack<Character> stack=new Stack<>();
+    //     for(char ch:s.toCharArray()){
+    //         if(ch=='('){
+    //             stack.push(ch);
+    //         }else{
+    //             if(stack.isEmpty()){
+    //                 return false;
+    //             }
+    //            else if(stack.peek()=='('&& ch==')'){
+	//               stack.pop();
+	//           }
+    //         }
+    //     }
+    //         return stack.isEmpty();
+    // }
 
-    }
+}
