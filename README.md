@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
