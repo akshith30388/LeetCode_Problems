@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/akshith30388/LeetCode_Problems/tree/master/0050-powx-n) |
 | [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/akshith30388/LeetCode_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
