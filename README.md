@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0179-largest-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/akshith30388/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/akshith30388/LeetCode_Problems/tree/master/0057-insert-interval) |
+| [0179-largest-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
