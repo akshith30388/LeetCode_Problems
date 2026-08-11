@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/akshith30388/LeetCode_Problems/tree/master/0860-lemonade-change) |
 | [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshith30388/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshith30388/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshith30388/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Recursion
 |  |
 | ------- |
