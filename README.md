@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akshith30388/LeetCode_Problems/tree/master/0860-lemonade-change) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akshith30388/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshith30388/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akshith30388/LeetCode_Problems/tree/master/0050-powx-n) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akshith30388/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3270-find-the-key-of-the-numbers](https://github.com/akshith30388/LeetCode_Problems/tree/master/3270-find-the-key-of-the-numbers) |
