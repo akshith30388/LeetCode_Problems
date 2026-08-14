@@ -131,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/akshith30388/LeetCode_Problems/tree/master/0162-find-peak-element) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
