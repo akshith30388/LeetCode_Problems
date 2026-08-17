@@ -15,16 +15,15 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-        
-        return count(root);
-    }
-    public static int count(TreeNode root){
-        if(root==null){
-            return 0;
+        if(root==null) return 0;
+        if(root.left==null){
+            return 1+minDepth(root.right);
         }
-        if(root.left==null && root.right==null) return 1;
-        if(root.left==null) return 1+count(root.right);
-        if(root.right==null) return 1+count(root.left);
-    return 1 + Math.min(count(root.left),count(root.right));
+        if(root.right==null){
+            return 1+minDepth(root.left);
+        }
+        return 1+Math.min(minDepth(root.left),minDepth(root.right));
     }
+    
+
 }
