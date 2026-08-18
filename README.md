@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/akshith30388/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/akshith30388/LeetCode_Problems/tree/master/1773-count-items-matching-a-rule) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/akshith30388/LeetCode_Problems/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/akshith30388/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bracket Sequences
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshith30388/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/akshith30388/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshith30388/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/akshith30388/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshith30388/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/akshith30388/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshith30388/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
