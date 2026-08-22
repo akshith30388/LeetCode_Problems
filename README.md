@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0707-design-linked-list) |
 ## Design
 |  |
