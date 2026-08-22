@@ -9,7 +9,6 @@ class Solution {
             product*=r;
             n/=10;
         }
-        
         sum+=product;
         return o%sum==0;
     }
