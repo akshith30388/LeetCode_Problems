@@ -28,6 +28,6 @@ class Solution {
         }
 
       
-        return 2 * (lsum - rsum) != 9 * (rq - lq);
+       return 2*lsum+9*lq!=2*rsum+9*rq;
     }
 }
