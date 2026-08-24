@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/akshith30388/LeetCode_Problems/tree/master/1773-count-items-matching-a-rule) |
+| [1927-sum-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshith30388/LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/akshith30388/LeetCode_Problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshith30388/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1927-sum-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/1927-sum-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshith30388/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3270-find-the-key-of-the-numbers](https://github.com/akshith30388/LeetCode_Problems/tree/master/3270-find-the-key-of-the-numbers) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/akshith30388/LeetCode_Problems/tree/master/0860-lemonade-change) |
+| [1927-sum-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
