@@ -1,33 +1,30 @@
 class Solution {
     public boolean sumGame(String num) {
-        int n = num.length();
-        int rsum = 0;
-        int lsum = 0;
-        int rq = 0;
-        int lq = 0;
-        char ch[] = num.toCharArray();
-        for (int i = 0; i < n; i++) {
-            char ele = ch[i];
-            if (i < n / 2) {
-                if (ele == '?') {
+        int ls=0;
+        int lq=0;
+        int rs=0;
+        int rq=0;
+        int n=num.length();
+        for(int i=0;i<n;i++){
+            if(i<n/2){
+                if(num.charAt(i)=='?'){
                     lq++;
-                } else {
-                    lsum += ele - '0';
+                }else{
+                    int number=num.charAt(i)-'0';
+                    ls+=number;
                 }
-            } else {
-                if (ele == '?') {
-                    rq++;
-                } else {
-                    rsum += ele - '0';
+            }else{
+                 if(num.charAt(i)=='?'){
+                  rq++;
+                }else{
+                    int number=num.charAt(i)-'0';
+                    rs+=number;
                 }
             }
         }
-
-        if ((lq + rq) % 2 != 0) {
+        if((lq+rq)%2!=0){
             return true;
         }
-
-      
-       return 2*lsum+9*lq!=2*rsum+9*rq;
+        return 2*ls+9*lq!=2*rs+9*rq;
     }
 }
