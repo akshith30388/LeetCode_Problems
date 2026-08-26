@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/akshith30388/LeetCode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshith30388/LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/akshith30388/LeetCode_Problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Dynamic Programming
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshith30388/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshith30388/LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
