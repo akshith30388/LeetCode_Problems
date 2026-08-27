@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akshith30388/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 ## Algorithm X
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0707-design-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
