@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/akshith30388/LeetCode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0707-design-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshith30388/LeetCode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
