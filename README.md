@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/akshith30388/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/akshith30388/LeetCode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/1927-sum-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akshith30388/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshith30388/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/akshith30388/LeetCode_Problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Sliding Window
