@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akshith30388/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/akshith30388/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshith30388/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshith30388/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/akshith30388/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/akshith30388/LeetCode_Problems/tree/master/1927-sum-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akshith30388/LeetCode_Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/akshith30388/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshith30388/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshith30388/LeetCode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
