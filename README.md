@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/akshith30388/LeetCode_Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/akshith30388/LeetCode_Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshith30388/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/akshith30388/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akshith30388/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/akshith30388/LeetCode_Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0707-design-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshith30388/LeetCode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -308,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/akshith30388/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akshith30388/LeetCode_Problems/tree/master/3904-smallest-stable-index-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
