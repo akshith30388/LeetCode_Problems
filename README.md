@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/akshith30388/LeetCode_Problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshith30388/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/akshith30388/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/akshith30388/LeetCode_Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/akshith30388/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
