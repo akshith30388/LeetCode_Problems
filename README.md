@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshith30388/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshith30388/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshith30388/LeetCode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshith30388/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshith30388/LeetCode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshith30388/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/akshith30388/LeetCode_Problems/tree/master/3903-smallest-stable-index-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akshith30388/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshith30388/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshith30388/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshith30388/LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshith30388/LeetCode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshith30388/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshith30388/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/akshith30388/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## Counting
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akshith30388/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/akshith30388/LeetCode_Problems/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshith30388/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Algorithm X
 |  |
 | ------- |
