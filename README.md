@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/akshith30388/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshith30388/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshith30388/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0735-asteroid-collision](https://github.com/akshith30388/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/akshith30388/LeetCode_Problems/tree/master/0860-lemonade-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshith30388/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/akshith30388/LeetCode_Problems/tree/master/1313-decompress-run-length-encoded-list) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akshith30388/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshith30388/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/akshith30388/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/akshith30388/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akshith30388/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/akshith30388/LeetCode_Problems/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/akshith30388/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshith30388/LeetCode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/akshith30388/LeetCode_Problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Number Theory
