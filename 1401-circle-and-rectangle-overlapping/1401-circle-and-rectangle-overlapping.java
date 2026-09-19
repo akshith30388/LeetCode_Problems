@@ -18,13 +18,11 @@ class Solution {
         }else{
             yi=yCenter;
         }
-        int dx = xi - xCenter;
-        int dy = yi - yCenter;
-
-        int distanceSquared = dx * dx + dy * dy;
-
-        return distanceSquared <= radius * radius;
-
+        int dist=(int)Math.pow((xi-xCenter),2)+(int)Math.pow((yi-yCenter),2);
+        if(dist<=radius*radius){
+            return true;
+        }
+        return false;
        
     }
 }
